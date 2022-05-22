@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jakedagamer30
 - 👀 I’m interested in game development, gaming, parkour, and music
 - 🌱 I’m currently learning scripting and UI design
-- 💞️ I’m looking to collaborate on Noyhing yet
+- 💞️ I’m looking to collaborate on mainly scripting and possibly UI design.
 - 📫 How to reach me.
 
 <!---
